@@ -12,7 +12,7 @@ export default function FaqPage() {
           Frequently Asked Questions
         </h1>
         <p className="text-[#737B73] mb-10">
-          Everything you need to know about Pahadi Bazaar.
+          Everything you need to know about Apna Pahadi Bazaar.
         </p>
 
         <div className="space-y-4">

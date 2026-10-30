@@ -12,7 +12,7 @@ export default function AboutPage() {
           <p className="text-[#D99A36] text-xs font-semibold uppercase tracking-widest mb-2">
             Our Story
           </p>
-          <h1 className="text-4xl font-bold mb-3">About Pahadi Bazaar</h1>
+          <h1 className="text-4xl font-bold mb-3">About Apna Pahadi Bazaar</h1>
           <p className="text-[#A8C4B0]">
             A Pahadi-first marketplace for local products, local people and a
             stronger Uttarakhand.
@@ -36,7 +36,7 @@ export default function AboutPage() {
         <div>
           <h2 className="text-xl font-bold text-[#174B35] mb-3">What we do</h2>
           <p className="text-[#594638] leading-relaxed">
-            Pahadi Bazaar connects local farmers and food artisans from Kumaon
+            Apna Pahadi Bazaar connects local farmers and food artisans from Kumaon
             and Garhwal directly with people who care about real food, honest
             provenance and supporting mountain communities. Every product on our
             platform is verified by our team before it is listed.

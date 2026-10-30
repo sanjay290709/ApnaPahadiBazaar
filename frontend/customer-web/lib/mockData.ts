@@ -301,7 +301,7 @@ export const sellers = [
 export const faqs = [
   {
     q: "Where do your products come from?",
-    a: "All products on Pahadi Bazaar are sourced directly from verified farmers, sweetmakers, and women collectives across Uttarakhand — primarily from Kumaon and Garhwal.",
+    a: "All products on Apna Pahadi Bazaar are sourced directly from verified farmers, sweetmakers, and women collectives across Uttarakhand — primarily from Kumaon and Garhwal.",
   },
   {
     q: "How is the Bal Mithai and Singori kept fresh?",
@@ -312,7 +312,7 @@ export const faqs = [
     a: "Mandua (finger millet) and Gahat (horsegram) grown in Uttarakhand's glacial mineral-rich soil and cool climate have significantly higher iron, calcium and protein than plains-grown crops.",
   },
   {
-    q: "Is Pahadi Bazaar currently shipping?",
+    q: "Is Apna Pahadi Bazaar currently shipping?",
     a: "We are currently in catalogue mode as we test the platform and onboard regional artisans. Direct ordering and pan-India delivery will go live shortly.",
   },
   {

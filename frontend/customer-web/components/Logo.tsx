@@ -29,7 +29,7 @@ export default function Logo({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
 
       <div>
         <p className={`font-bold text-[#174B35] leading-none ${textSize}`}>
-          Pahadi Bazaar
+          Apna Pahadi Bazaar
         </p>
         {size !== "sm" && (
           <p className="text-[9px] text-[#737B73] leading-none mt-0.5 tracking-wide">

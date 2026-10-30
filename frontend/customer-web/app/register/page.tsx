@@ -19,7 +19,7 @@ export default function RegisterPage() {
             {/* Card header */}
             <div className="px-6 pt-6 pb-4 border-b border-gray-50">
               <h1 className="text-xl font-bold text-[#1F2937]">Sign Up</h1>
-              <p className="text-sm text-[#6B7280] mt-0.5">Create your Pahadi Bazaar account</p>
+              <p className="text-sm text-[#6B7280] mt-0.5">Create your Apna Pahadi Bazaar account</p>
             </div>
 
             <form className="px-6 py-5 space-y-4">

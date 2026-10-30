@@ -24,7 +24,7 @@ const footerLinks = {
     { label: "Pahadi Homestays", href: "/category/homestays" },
     { label: "Handwoven Woollens", href: "/category/clothing-accessories" },
   ],
-  "Pahadi Bazaar": [
+  "Apna Pahadi Bazaar": [
     { label: "Our Story & Mission", href: "/about" },
     { label: "Meet the Producers", href: "/about" },
     { label: "Contact Team", href: "/contact" },
@@ -90,7 +90,7 @@ export default function Footer() {
               </div>
               <div>
                 <span className="font-extrabold text-white text-lg tracking-tight block">
-                  Pahadi Bazaar
+                  Apna Pahadi Bazaar
                 </span>
                 <span className="text-[10px] text-zinc-500 font-medium tracking-wide block">
                   Uttarakhand First Marketplace
@@ -138,7 +138,7 @@ export default function Footer() {
 
         {/* Clean Integrated Copyright & Badges Bar (Inside main footer container, removing the repetitive extra bar) */}
         <div className="mt-12 pt-8 border-t border-zinc-800/70 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500">
-          <p>© 2026 Pahadi Bazaar Technologies. All rights reserved.</p>
+          <p>© 2026 Apna Pahadi Bazaar Technologies. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <Link href="/privacy" className="hover:text-zinc-300 transition-colors">Privacy</Link>
             <Link href="/terms" className="hover:text-zinc-300 transition-colors">Terms</Link>
