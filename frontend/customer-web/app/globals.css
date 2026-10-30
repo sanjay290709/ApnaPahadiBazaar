@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root {
+  /* Pahadi Bazaar brand tokens */
+  --pb-forest: #174B35;
+  --pb-deep-green: #103B2B;
+  --pb-cream: #F7F4EA;
+  --pb-sage: #E8EFE6;
+  --pb-mist: #F1F4F0;
+  --pb-saffron: #D99A36;
+  --pb-terracotta: #B96F4B;
+  --pb-earth: #594638;
+
+  /* Semantic UI tokens */
+  --color-page-bg: var(--pb-cream);
+  --color-header-bg: #ffffff;
+  --color-footer-bg: var(--pb-deep-green);
+  --color-heading: var(--pb-forest);
+  --color-text: var(--pb-earth);
+  --color-text-muted: #737b73;
+  --color-primary: var(--pb-forest);
+  --color-primary-hover: var(--pb-deep-green);
+  --color-secondary-bg: var(--pb-sage);
+  --color-surface-muted: var(--pb-mist);
+  --color-card-bg: #ffffff;
+  --color-border: #e5e0d3;
+  --color-success: #367a52;
+  --color-error: #b54747;
+
+  --radius-card: 14px;
+  --radius-button: 10px;
+  --content-max-width: 1200px;
+}
+
+body {
+  background: var(--pb-cream);
+  color: var(--pb-earth);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
